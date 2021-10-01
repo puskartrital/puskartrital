@@ -4,7 +4,7 @@
 
 
 * I’m currently working on some personal skills development.                
-* Have worked on Various __Clouds Providers(Azure,AWS,GCP)__ ,__Kubernetes__, __Docker__, __Terraform__, __Docker Swarm__ and __Jenkins__  
+* Have worked on Various __Clouds Providers(Azure,AWS,GCP)__ ,__Kubernetes__, __Docker__, __Terraform__, __Docker Swarm__ , __Jenkins__  etc.
 * And on security including __OWASP__,  __SonarQube__ and __openVAS etc.__
 * Loves to work with newer technologies and OpenSource of course !
  
@@ -37,6 +37,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puskartrital&layout=compact" alt="puskartrital" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=puskartrital&show_icons=true" alt="puskartrital" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puskartrital&layout=compact" alt="puskartrital" /></p>
