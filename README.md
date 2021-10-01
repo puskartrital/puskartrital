@@ -1,6 +1,6 @@
 <h1 align="center">Hi! there, 👋 I'm <strong> Puskar Trital</strong></h1>
 
-<h3 align="center">I'm a <b>DevOps/DevSecOps Engineer, CyberSecutity Specialist.</b></h3>
+<h4 align="center">I'm a <b>DevOps/DevSecOps Engineer, CyberSecutity Specialist.</b></h4>
 
 
 * I’m currently working on some personal skills development.                
