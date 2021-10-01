@@ -1,5 +1,7 @@
-<h1 align="center">Hi! there, 👋 I'm <strong style="color: #0abf53;">Puskar Trital</strong></h1>
-<h3 align="center">I'm a <b style="color: #0abf53; text-decoration: underline;">DevOps/DevSecOps Engineer, CyberSecutity Specialist.</b></h3>
+<h1 align="center">Hi! there, 👋 I'm <strong> Puskar Trital</strong></h1>
+
+<h3 align="center">I'm a <b>DevOps/DevSecOps Engineer, CyberSecutity Specialist.</b></h3>
+
 
 * I’m currently working on some personal skills development.                
 * Have worked on Various __Clouds Providers(Azure,AWS,GCP)__ ,__Kubernetes__, __Docker__, __Terraform__, __Docker Swarm__ and __Jenkins__  
