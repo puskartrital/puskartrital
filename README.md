@@ -35,4 +35,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puskartrital&layout=compact" alt="puskartrital" /><img  src="https://github-readme-stats.vercel.app/api?username=puskartrital&show_icons=true" alt="puskartrital" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puskartrital&layout=compact" alt="puskartrital" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=puskartrital&show_icons=true" alt="puskartrital" /></p>
