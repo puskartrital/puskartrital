@@ -38,6 +38,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puskartrital&layout=compact" alt="puskartrital" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=puskartrital&show_icons=true" alt="puskartrital" /></p>
-
- <h3 align="center"> Good Day <3</h3>
-
