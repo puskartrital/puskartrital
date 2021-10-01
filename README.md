@@ -37,4 +37,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puskartrital&layout=compact" alt="puskartrital" /></p>
+<p><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puskartrital&layout=compact" alt="puskartrital" /></center></p>
