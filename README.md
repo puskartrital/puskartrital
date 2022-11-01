@@ -1,6 +1,6 @@
 <h1 align="center">Hi! there, 👋 I'm <strong> Puskar Trital</strong></h1>
 
-<h3 align="center">I'm a <b>DevOps/DevSecOps Engineer, CyberSecutity Specialist.</b></h3>
+<h3 align="center">I'm a <b>DevOps/DevSecOps Engineer.</b></h3>
 
 
 * I’m currently working on some personal skills development.                
@@ -37,7 +37,6 @@ Cryptography : John the Ripper, Hashcat.
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/puskar-trital-35335a13a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="puskar-trital-35335a13a" height="30" width="40" /></a>
-<a href="https://facebook.com/puskartrital.com.np" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="puskartrital-facebook" height="30" width="40" /></a>
 <a href="https://twitter.com/tritalpuskar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="puskartrital-twitter" height="30" width="40" /></a>
 </p>
 
