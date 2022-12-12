@@ -4,16 +4,14 @@
 
 
 * I’m currently working on some personal skills development.                
-* Have worked on Various __Clouds Providers(Azure,AWS,GCP)__ ,__Kubernetes__, __Docker__, __Terraform__, __Docker Swarm__ , __Jenkins__  etc.
+* Have worked on Various __Clouds Providers(Azure,AWS,GCP,DigitalOcean)__ ,__Kubernetes__, __Docker__, __Terraform__, __Docker Swarm__ , __Jenkins__  etc.
 * And on security including 
 ```
-Web Security : Burp Suite, Zed Attack Proxy, SQLmap, FFUF, httpx, Nikto, WPScan
+Web Security : Burp Suite, Zed Attack Proxy, SQLmap, FFUF, httpx, Nikto, WPScan etc.
 
-Network Security : Nessus, Nmap, Netcat, Metasploit Framework, Wireshark, Tcpdump, Bettercap, OpenVAS
+Network Security : Nessus, Nmap, Netcat, Metasploit Framework, Wireshark, Tcpdump, Bettercap, OpenVAS etc.
 
-Mobile Security : Apktool, MobSF, Frida, Drozer
-
-Wireless Security : Aircrack-ng
+Mobile Security : Apktool, MobSF, Frida, Drozer etc.
 
 Container Runtime Security : Falco and Sysdig
 
@@ -52,6 +50,7 @@ Cryptography : John the Ripper, Hashcat.
 ![](https://img.shields.io/badge/cloud-aws-0abf53)
 ![](https://img.shields.io/badge/cloud-gcp-0abf53)
 ![](https://img.shields.io/badge/cloud-azure-0abf53)
+![](https://img.shields.io/badge/cloud-digitalocean-0abf53)
 
 
 
