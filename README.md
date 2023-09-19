@@ -28,7 +28,7 @@ Cryptography : John the Ripper, Hashcat.
  
 <hr/>
 
-👨‍💻You can find more about me in  [https://puskartrital.com](https://puskartrital.com)  
+👨‍💻You can find more about me in  [https://www.puskartrital.com](https://www.puskartrital.com)  
 
 💬 Want to dicuss something ?
 
