@@ -1,10 +1,14 @@
 name: Generate Snake Animation
 
 on:
-  schedule:
-  - cron: "0 */12 * * *"
   workflow_dispatch:
-
+    inputs:
+      message:
+        description: 'Manual run message'
+        required: false
+        default: 'Manual trigger to generate snake animation'
+  schedule:
+  - cron: "0 */12 * * *" # Fallback automated run
 
 jobs:
   build:
