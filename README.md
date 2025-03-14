@@ -20,6 +20,9 @@ Product-minded T-shaped SRE/DevOps/DevSecOps professional with expertise in:
   
 ![Cybrary](https://img.shields.io/badge/Cybrary-Linux_Administration-0066FF?style=for-the-badge)
 ![Cybrary](https://img.shields.io/badge/Cybrary-PCI/DSS-0abf53?style=for-the-badge)
+![Cybrary](https://img.shields.io/badge/Cybrary-Social_Engineering-FF6B6B?style=for-the-badge)
+![Cybrary](https://img.shields.io/badge/Cybrary-Mobile_Security-4CAF50?style=for-the-badge)
+![Cybrary](https://img.shields.io/badge/Cybrary-Network_Security-FF9800?style=for-the-badge)
 ![Fortinet](https://img.shields.io/badge/Fortinet-NSE_Level_2-FF0000?style=for-the-badge)
 ![Fortinet](https://img.shields.io/badge/Fortinet-NSE_Level_1-800080?style=for-the-badge)
 
