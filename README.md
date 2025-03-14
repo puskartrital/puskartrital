@@ -9,7 +9,7 @@
 </div>
 
 ## 🎯 Professional Summary
-Product-minded T-shaped SRE/DevOps professional with expertise in:
+Product-minded T-shaped SRE/DevOps/DevSecOps professional with expertise in:
 - 🚀 Cloud Infrastructure & Orchestration
 - 🔒 Security Implementation & Compliance
 - 📈 System Reliability & Performance
