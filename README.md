@@ -101,7 +101,7 @@ Product-minded T-shaped SRE/DevOps/DevSecOps professional with expertise in:
   <a href="https://www.puskartrital.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-puskartrital.com-0abf53?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/puskar-trital-35335a13a/" target="_blank">
+  <a href="https://np.linkedin.com/in/puskartrital" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://twitter.com/tritalpuskar" target="_blank">
